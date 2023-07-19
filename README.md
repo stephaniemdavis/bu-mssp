@@ -3,4 +3,4 @@
 
 My Master's Degree Coursework Repo
 Commencing a Masters of Statistical Practice at BU, Fall 2023.
-The MSSP bootcamp commences August 14th, 2023! I'll be using this repo to store all my work.
+The MSSP bootcamp commences August 14th! I'll be using this repo to store all my work.
